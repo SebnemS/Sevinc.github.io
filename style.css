@@ -373,7 +373,7 @@ p {
 	padding: 30px;
 	flex-basis: 50%;
 	height: 100%;
-	display: flex;
+	display: absolute;
 	align-items: flex-start;
 	justify-content: center;
 	/*flex-direction: column;*/
